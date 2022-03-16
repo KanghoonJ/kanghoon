@@ -1,1 +1,2 @@
-# kanghoon
+# Hi there!
+My name is Kanghoon and I'm a postdoctoral research fellow at Johns Hopkins University studying neural intelligence and machine learning. Interdisciplinary background in Physics, Mathematics, Neuroscience, and Brain engineering, with a spirit and a strong motivation to have a good impact. Always Learner. I'm uploading my interesting projects and useful codes for the neuroscience community here.
